@@ -1,0 +1,4 @@
+com\epam\controller\BeanFactory.class
+com\epam\controller\PropertyTextDataLoader.class
+com\epam\controller\IFactory.class
+com\epam\controller\Controller.class
