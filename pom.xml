@@ -2,8 +2,8 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 
-	<groupId>Task13</groupId>
-	<artifactId>Task13</artifactId>
+	<groupId>Task14</groupId>
+	<artifactId>Task14</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>pom</packaging>
 	<modules>	
@@ -11,7 +11,7 @@
 		<module>Controller</module>
 		<module>Output</module>
 	</modules>
-	<name>Task13</name>
+	<name>Task14</name>
 	<url>http://maven.apache.org</url>
 
 	<properties>

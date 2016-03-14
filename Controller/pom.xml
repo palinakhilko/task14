@@ -16,8 +16,8 @@
 	        </resources>
 	</build>
 <parent>
-    <groupId>Task13</groupId>
-    <artifactId>Task13</artifactId>
+    <groupId>Task14</groupId>
+    <artifactId>Task14</artifactId>
     <version>0.0.1-SNAPSHOT</version>
 </parent>
   <properties>
@@ -26,13 +26,13 @@
 
   <dependencies>
   <dependency>
-        <groupId>Task13</groupId>
+        <groupId>Task14</groupId>
         <artifactId>Logic</artifactId>
         <version>${project.version}</version>
         <type>jar</type>
     </dependency>
   <dependency>
-        <groupId>Task13</groupId>
+        <groupId>Task14</groupId>
         <artifactId>Output</artifactId>
         <version>${project.version}</version>
         <type>jar</type>
